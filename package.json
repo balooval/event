@@ -1,0 +1,16 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "",
+  "module": "src/event.js",
+  "scripts": {
+    "test": "mocha --require esm"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^8.2.1"
+  }
+}
